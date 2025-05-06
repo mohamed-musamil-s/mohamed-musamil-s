@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Mohamed Musamil!
 
 ### 🚀 About Me
-I'm a dedicated **Software Engineer** with over 3.5+ years of experience in building scalable, high-performance applications. My expertise lies in modern technologies such as **JavaScript**, **TypeScript**, **Angular**, and **Node.js**, with a proven ability to design APIs, optimize system performance, and implement secure coding practices.
+I'm a dedicated **Software Engineer** with over 4 years of experience in building scalable, high-performance applications. My expertise lies in modern technologies such as **JavaScript**, **TypeScript**, **Angular**, and **Node.js**, with a proven ability to design APIs, optimize system performance, and implement secure coding practices.
 
 ### 💡 Key Highlights
 - Proficient in **frontend technologies** like Angular and React to create dynamic user interfaces.
