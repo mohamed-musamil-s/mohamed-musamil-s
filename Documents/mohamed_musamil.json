@@ -1,0 +1,233 @@
+{
+    "name": "Mohamed Musamil",
+    "profileImage": "https://avatars.githubusercontent.com/u/191740840?v=4",
+    "firstName": "Mohamed",
+    "lastName": "Musamil",
+    "joiningDate": "2021-04-20",
+    "position": [
+        "Full-Stack Developer",
+        "Software Engineer",
+        "Front-End Developer",
+        "Back-End Developer"
+    ],
+    "isThemeMode": true,
+    "cv": "https://raw.githubusercontent.com/mohamed-musamil-s/mohamed-musamil-s/refs/heads/develop/Documents/Mohamed_Musamil__Resume.pdf",
+    "personalInfo": [
+        {
+            "iconName": "matEmailSharp",
+            "label": "mohamed.musamil@outlook.com",
+            "link": "mailto:mohamed.musamil@outlook.com"
+        },
+        {
+            "iconName": "faBrandLinkedin",
+            "label": "linkedin.com/in/mohamed-mu",
+            "link": "https://www.linkedin.com/in/mohamed-mu/"
+        },
+        {
+            "iconName": "matLocationOnSharp",
+            "label": "Coimbatore, India",
+            "link": "https://g.co/kgs/qUjAaSj"
+        }
+    ],
+    "summary": {
+        "title": "Professional Summary",
+        "content": "Dynamic Full-Stack Software Engineer with {{experience}} of experience in building scalable, high-performance applications. Proficient in JavaScript, TypeScript, and modern frameworks like Angular, Node.js and Express. Expertise includes API design, performance optimization, secure coding practices, and CI/CD pipelines. Skilled in collaborating with Agile teams to deliver innovative software solutions while maintaining high-quality standards."
+    },
+    "education": {
+        "title": "Education",
+        "items": [
+            {
+                "name": "KONGU ENGINEERING COLLEGE",
+                "course": "B.E",
+                "department": ", COMPUTER SCIENCE AND ENGINEERING",
+                "year": 2021
+            },
+            {
+                "name": "TAMIL NADU POLYTECHNIC COLLEGE",
+                "course": "DIPLOMA",
+                "department": ", COMPUTER ENGINEERING",
+                "year": 2018
+            }
+        ]
+    },
+    "skills": {
+        "title": "Skills",
+        "items": [
+            {
+                "label": "PROGRAMMING",
+                "lists": [
+                    {
+                        "name": "HTML",
+                        "iconName": "diHtml5Original"
+                    },
+                    {
+                        "name": "CSS",
+                        "iconName": "diCss3Original"
+                    },
+                    {
+                        "name": "JavaScript",
+                        "iconName": "diJavascriptOriginal"
+                    },
+                    {
+                        "name": "TypeScript",
+                        "iconName": "diTypescriptOriginal"
+                    },
+                    {
+                        "name": "Java",
+                        "iconName": "diJavaOriginal"
+                    }
+                ]
+            },
+            {
+                "label": "LIBRARIES/FRAMEWORKS",
+                "lists": [
+                    {
+                        "name": "Angular",
+                        "iconName": "diAngularjsOriginal"
+                    },
+                    {
+                        "name": "NodeJS",
+                        "iconName": "diNodejsOriginal"
+                    },
+                    {
+                        "name": "Tailwind CSS",
+                        "iconName": "diTailwindcssOriginal"
+                    },
+                    {
+                        "name": "Express",
+                        "iconName": "diExpressOriginal"
+                    },
+                    {
+                        "name": "React",
+                        "iconName": "diReactOriginal"
+                    },
+                    {
+                        "name": "Spring Boot",
+                        "iconName": "diSpringOriginal"
+                    }
+                ]
+            },
+            {
+                "label": "DATABASES",
+                "lists": [
+                    {
+                        "name": "MongoDB",
+                        "iconName": "diMongodbOriginal"
+                    },
+                    {
+                        "name": "PostgreSQL",
+                        "iconName": "diPostgresqlOriginal"
+                    },
+                    {
+                        "name": "Firebase",
+                        "iconName": "diFirebaseOriginal"
+                    },
+                    {
+                        "name": "MSSQL / MYSQL",
+                        "iconName": "diMysqlOriginal"
+                    }
+                ]
+            },
+            {
+                "label": "TOOLS",
+                "lists": [
+                    {
+                        "name": "Postman",
+                        "iconName": "diPostmanOriginal"
+                    },
+                    {
+                        "name": "Visual Studio Code",
+                        "iconName": "diVscodeOriginal"
+                    },
+                    {
+                        "name": "IntelliJ IDEA",
+                        "iconName": "diIntellijOriginal"
+                    }
+                ]
+            }
+        ]
+    },
+    "experiences": {
+        "title": "Experiences",
+        "items": [
+            {
+                "title": "Orion Innovation",
+                "position": "Software Engineer",
+                "location": "Coimbatore, India",
+                "years": "Oct 2021 – Present",
+                "logo": "https://raw.githubusercontent.com/mohamed-musamil-s/mohamed-musamil-s/refs/heads/develop/Assets/Logos/orioninnovation_light.jpg",
+                "logoDark": "https://raw.githubusercontent.com/mohamed-musamil-s/mohamed-musamil-s/refs/heads/develop/Assets/Logos/orioninnovation_dark.jpg",
+                "link": "https://www.orioninc.com/",
+                "lists": [
+                    "Designed and developed dynamic full-stack web applications using Angular 16, Angular Material, Node.js, Express, and MongoDB.",
+                    "Built RESTful APIs serving data for over 500,000 concurrent users, ensuring seamless integration with JavaScript / Typescript - based front-end systems.",
+                    "Spearheaded CI/CD implementation, reducing deployment cycle time by 30% and contributing to continuous improvement in Agile Scrum teams.",
+                    "Resolved critical application issues, ensuring 100% uptime and enhancing user experience.",
+                    "Improved database performance by optimizing SQL queries and boosting query response times, aiding analytics by increasing reporting speed by 20%."
+                ]
+            },
+            {
+                "title": "Leanfolks IT Services",
+                "position": "Software Trainee",
+                "location": "Erode, India",
+                "years": "Apr 2021 – Sep 2021",
+                "logo": "https://raw.githubusercontent.com/mohamed-musamil-s/mohamed-musamil-s/refs/heads/develop/Assets/Logos/leanfolks.jpg",
+                "link": "https://www.leanfolks.com/",
+                "lists": [
+                    "Developed responsive MERN stack applications for in-house projects using React, Node.js, Express, and MongoDB.",
+                    "Integrated real-time synchronization features using Firebase, enhancing data consistency across applications.",
+                    "Created interactive UI/UX components, improving client satisfaction by 20%.",
+                    "Participated in training sessions to strengthen technical expertise in web development technologies."
+                ]
+            }
+        ]
+    },
+    "achievements": {
+        "title": "Achievements",
+        "items": [
+            {
+                "title": "Employee star of the month",
+                "logo": "https://raw.githubusercontent.com/mohamed-musamil-s/mohamed-musamil-s/refs/heads/develop/Assets/Awards/OI-STAR_MONTH.png",
+                "content": "Recognized for outstanding contributions to project outcomes.",
+                "lists": [
+                    "Played a pivotal role in delivering critical modules ahead of schedule.",
+                    "Took ownership of complex features, ensuring high-quality code and performance.",
+                    "Consistently collaborated across teams to enhance project efficiency and output."
+                ]
+            },
+            {
+                "title": "Full‑stack learning badge",
+                "iconName": "hugeAward04",
+                "content": "Demonstrated exceptional skill growth and technical expertise.",
+                "lists": [
+                    "Completed advanced learning paths in both frontend (Angular) and backend (Java, Node.js).",
+                    "Applied newly acquired knowledge to real-time projects, improving performance and scalability.",
+                    "Proactively mentored peers and contributed to internal knowledge-sharing sessions."
+                ]
+            },
+            {
+                "title": "2024 Pinnacle Nominee - Dream Team Award",
+                "logo": "https://raw.githubusercontent.com/mohamed-musamil-s/mohamed-musamil-s/refs/heads/develop/Assets/Awards/OI-DREAM_TEAM_AWARD.png",
+                "content": "Nominated for outstanding team collaboration and project excellence.",
+                "lists": [
+                    "Key contributor to a high-performing, cross-functional team recognized across the organization.",
+                    "Successfully managed complex integrations while ensuring team synergy and alignment.",
+                    "Helped build a collaborative environment that led to consistent project wins."
+                ]
+            },
+            {
+                "title": "SPOT Award - Growth Mindset",
+                "logo": "https://raw.githubusercontent.com/mohamed-musamil-s/mohamed-musamil-s/refs/heads/develop/Assets/Awards/OI-GROW_MINDSET.png",
+                "content": "Acknowledged for consistent innovation, dedication, and collaborative spirit.",
+                "lists": [
+                    "I just wanted to express my gratitude for your innovative thinking. You always come up with unique solutions and are never afraid to take on tough challenges.",
+                    "Your strong technical expertise and visionary approach truly distinguish you. Your ability to foresee future needs and implement scalable solutions has been a tremendous asset to the team.",
+                    "Nominating for his extraordinary contributions and his continuous growth mindset. He never stops learning and consistently uplifts the entire team with his positive energy."
+                ]
+            }
+        ]
+    },
+    "projects": {
+        "title": "Projects"
+    }
+}
